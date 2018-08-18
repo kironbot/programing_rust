@@ -1,0 +1,15 @@
+/Users/kiron/Programing/Rust/programing_rust/ch02/iron-gcd/target/debug/deps/libserde-336dcac19dca4562.rlib: /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs
+
+/Users/kiron/Programing/Rust/programing_rust/ch02/iron-gcd/target/debug/deps/serde-336dcac19dca4562.d: /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs
+
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs:
