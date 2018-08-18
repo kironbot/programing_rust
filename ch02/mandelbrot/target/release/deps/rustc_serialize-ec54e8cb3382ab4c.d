@@ -1,0 +1,10 @@
+/Users/kiron/Programing/Rust/programing_rust/ch02/mandelbrot/target/release/deps/librustc_serialize-ec54e8cb3382ab4c.rlib: /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/lib.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/serialize.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/collection_impls.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/base64.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/hex.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/json.rs
+
+/Users/kiron/Programing/Rust/programing_rust/ch02/mandelbrot/target/release/deps/rustc_serialize-ec54e8cb3382ab4c.d: /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/lib.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/serialize.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/collection_impls.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/base64.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/hex.rs /Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/json.rs
+
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/lib.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/serialize.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/collection_impls.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/base64.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/hex.rs:
+/Users/kiron/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/json.rs:
