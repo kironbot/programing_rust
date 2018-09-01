@@ -1,0 +1,6 @@
+[package]
+name = "error_sample"
+version = "0.1.0"
+authors = ["kironbot <sgr.araki@gmail.com>"]
+
+[dependencies]
