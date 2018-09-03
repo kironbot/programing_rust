@@ -1,0 +1,1 @@
+/home/kiron/Programing/Rust/programing_rust/ch08/fern_sim/target/debug/efern: /home/kiron/Programing/Rust/programing_rust/ch08/fern_sim/src/bin/efern.rs /home/kiron/Programing/Rust/programing_rust/ch08/fern_sim/src/lib.rs
