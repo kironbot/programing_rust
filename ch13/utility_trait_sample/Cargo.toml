@@ -1,0 +1,6 @@
+[package]
+name = "utility_trait_sample"
+version = "0.1.0"
+authors = ["kiron <sgr.araki@gmail.com>"]
+
+[dependencies]
