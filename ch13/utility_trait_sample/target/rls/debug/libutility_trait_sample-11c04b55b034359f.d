@@ -1,0 +1,1 @@
+/Users/kiron/Programing/Rust/programing_rust/ch13/utility_trait_sample/target/rls/debug/libutility_trait_sample-11c04b55b034359f.rmeta: /Users/kiron/Programing/Rust/programing_rust/ch13/utility_trait_sample/src/main.rs
